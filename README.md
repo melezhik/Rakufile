@@ -24,6 +24,6 @@ For example:
 `$ cat Rakufile`
 
 ```
-https://github.com/Kaiepi/p6-Kind.git --/test
+Hash::Merge --/test
 https://github.com/Kaiepi/p6-Kind.git
 ```
