@@ -27,3 +27,12 @@ For example:
 Hash::Merge --/test
 https://github.com/Kaiepi/p6-Kind.git
 ```
+
+# Specification implementation
+
+Rakufile specification is implemented and supported in the following tools:
+
+* Sparrow
+* RakuDist
+* RakuPlay
+
