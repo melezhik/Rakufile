@@ -16,7 +16,7 @@ Where:
 
 * `<Module>` is zef identity, see https://github.com/ugexe/zef#install-identities
 
-* <zef options> is zef cli options, see https://github.com/ugexe/zef
+* `<zef options>` is zef cli options, see https://github.com/ugexe/zef
 
 Thus, every line represents one Raku module dependency. Zef options apply for a certain line (module to be installed)
 
