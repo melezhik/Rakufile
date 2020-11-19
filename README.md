@@ -30,6 +30,15 @@ Hash::Merge --/test
 https://github.com/Kaiepi/p6-Kind.git
 ```
 
+Comments.
+
+You could use comments here, using  lines starting with `#` symbols:
+
+```
+# This module tests fail
+Data::Dump --/test
+```
+
 # Specification implementation
 
 Rakufile specification is implemented and supported in the following tools:
